@@ -1,2 +1,2 @@
 # excel-pdf-macro-macOS
-PDF Macro that publishes to PDF all worksheets between two tabs labeled “PDF - Start” and “PDF - End”
+VBA that publishes to PDF all visible worksheets between two bookends labeled "PDF - Start" and "PDF - End" for macOS.
